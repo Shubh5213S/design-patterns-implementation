@@ -18,10 +18,10 @@ public class AC {
 	}
 	public void increaseTemp() {
 		temp+=1;
-		System.out.println("Temperature is increased!!");
+		System.out.println("AC temperature is increased!!");
 	}
 	public void decreaseTemp() {
 		temp-=1;
-		System.out.println("Temperature is decreased!!");
+		System.out.println("AC temperature is decreased!!");
 	}
 }

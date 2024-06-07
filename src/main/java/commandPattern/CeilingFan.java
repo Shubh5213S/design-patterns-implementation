@@ -21,12 +21,12 @@ public class CeilingFan {
 	
 	public void increaseSpeed() {
 		speed+=1;
-		System.out.println("Speed is Increased!!");
+		System.out.println("Fan speed is Increased!!");
 	}
 	
 	public void decreaseSpeed() {
 		speed-=1;
-		System.out.println("Speed is Decreased!!");
+		System.out.println("Fan speed is Decreased!!");
 	}
 	
 }

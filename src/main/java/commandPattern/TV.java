@@ -21,11 +21,11 @@ public class TV {
 	
 	public void increaseVolume() {
 		volume+=1;
-		System.out.println("Volume is increased!!");
+		System.out.println("TV Volume is increased!!");
 	}
 	public void decreaseVolume() {
 		volume-=1;
-		System.out.println("Volume is decreased!!");
+		System.out.println("TV Volume is decreased!!");
 	}
 	
 	public int getChannel() {

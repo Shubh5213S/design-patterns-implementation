@@ -1,4 +1,4 @@
-package OddEven;
+package OddEvenThreadPrint;
 
 public class OddEvenMain {
 	int count=1;
